@@ -41,5 +41,3 @@ Global
 		SolutionGuid = {5BBB8DDE-FFF4-426A-9F90-50DFBD2FAE3F}
 	EndGlobalSection
 EndGlobal
-//Ensure that changes pushed to develop branch trigger unit tests and code pushed to staging branch triggers integration tests.
-//Right now I am testing the staging branch if it will trigger only the integration tests, as softuni wants :)
